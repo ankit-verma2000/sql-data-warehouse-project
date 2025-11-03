@@ -102,6 +102,10 @@ data-warehouse-project/
 ```
 ---
 
+## Data Flow:
+<img width="1094" height="555" alt="data_flow" src="https://github.com/user-attachments/assets/ca589c78-bdbb-4af6-8cd9-febb5a597ad4" />
+
+----
 ## Data Integration:
 <img width="1522" height="751" alt="data_integration" src="https://github.com/user-attachments/assets/f14a4441-ab02-41c5-8fce-36fb7a99ae7d" />
 
