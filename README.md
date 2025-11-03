@@ -103,7 +103,7 @@ data-warehouse-project/
 ---
 
 ## Data Integration:
-[Data Integration](<img width="1522" height="751" alt="data_integration" src="https://github.com/user-attachments/assets/f14a4441-ab02-41c5-8fce-36fb7a99ae7d" />).
+<img width="1522" height="751" alt="data_integration" src="https://github.com/user-attachments/assets/f14a4441-ab02-41c5-8fce-36fb7a99ae7d" />
 
 
 ## 🛡️ License
